@@ -13,6 +13,9 @@
 * Отображение радиуса поражения гранаты;
 * Демонстрация разлёта осколков ручных гранат.
 
+## Видео
+[![Смотреть видео](https://github.com/user-attachments/assets/cb15bbd7-a5f8-4365-b8d9-96e19dd35566)](https://rutube.ru/video/88860655cf99246658dab6dd5c114722)
+
 ## Скриншоты
 <img width="1920" height="1080" alt="Настройка параметров броска гранаты" src="https://github.com/user-attachments/assets/33c15a25-19bf-4638-828d-a27c3d05a1c0" />
 <p align="center">Настройка параметров броска гранаты</p>
