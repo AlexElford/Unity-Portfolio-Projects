@@ -27,3 +27,13 @@
 * Симуляция работы операционной системы, для обеспечения работы с МЭ.
 
 ## Скриншоты
+<img width="1920" height="1080" alt="Общий план" src="https://github.com/user-attachments/assets/e8c44c46-022b-412a-9b75-a64543d451ce" />
+<p align="center">Общий план</p>
+<img width="1920" height="1080" alt="Журнал трафика" src="https://github.com/user-attachments/assets/6a7ab752-be94-4746-952f-a6ed698e3fa8" />
+<p align="center">Журнал трафика</p>
+<img width="1920" height="1080" alt="Добавление правила межсетевого экрана" src="https://github.com/user-attachments/assets/f4eae892-39c7-4379-bf7d-9716fb596e41" />
+<p align="center">Добавление правила межсетевого экрана</p>
+<img width="1920" height="1080" alt="Список приложений" src="https://github.com/user-attachments/assets/8a9b3eb6-af49-423a-9514-357aa255310c" />
+<p align="center">Список приложений</p>
+<img width="1920" height="1080" alt="DoS атака" src="https://github.com/user-attachments/assets/f18245aa-1111-42cd-abe9-5f36068d7be2" />
+<p align="center">DoS атака</p>
