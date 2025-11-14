@@ -11,6 +11,9 @@
 * Поэлементная демонстрация конструкции электродвигателя;
 * Демонстрация сбора и разбора электродвигателя.
 
+## Видео
+[![Смотреть видео](https://github.com/user-attachments/assets/0f7648f3-7246-415e-9732-d97877e0d635)](https://rutube.ru/video/96f5ca27f9ce1a6678680a2c0a765fa7)
+
 ## Скриншоты
 <img width="1920" height="1080" alt="Электродвигатель в разрезе" src="https://github.com/user-attachments/assets/cfc51ad1-ef82-48ab-ba31-6bb04443e008" />
 <p align="center">Электродвигатель в разрезе</p>
